@@ -1,0 +1,11 @@
+$list-item-hover-color:rgba(78,75,75,0.06);
+
+.list-item{
+    background-color: white;
+    padding: 10px;
+    border-bottom: 1px solid black;
+    &:hover{
+        background-color: $list-item-hover-color;
+        border-bottom: 3px solid green;
+    }
+}

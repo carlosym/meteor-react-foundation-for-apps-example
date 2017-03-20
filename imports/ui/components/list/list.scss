@@ -1,0 +1,8 @@
+@import './list-item/list-item.scss';
+
+$background-color-list: white;
+
+.list{
+    background-color: $background-color-list;
+    padding: 10px;
+}
