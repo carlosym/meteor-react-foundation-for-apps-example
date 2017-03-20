@@ -1,6 +1,6 @@
 # meteor-react-foundation-for-apps-example
 
-##Install and configure project
+## Install and configure project
 meteor npm install
-##Start project
+## Start project
 meteor
